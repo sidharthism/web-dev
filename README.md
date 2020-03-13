@@ -3,6 +3,7 @@
                                                     WEB DEVELOPMENT
 
 1. Web Documentation <br/>
+
    https://developer.mozilla.org/en-US/ <br/>
    https://developer.mozilla.org/en-US/docs/Learn (Learn web development from MDN docs) <br/>
    https://developer.mozilla.org/en-US/docs/Web
@@ -14,6 +15,7 @@
    --------------------------------------------------
    
 2. JavaScript (Also known as Vanilla JS) <br/>
+
    https://www.w3schools.com/js/default.asp
 
    JS HTML Document Object Model (DOM)
@@ -46,5 +48,6 @@
    --------------------------------------------------
 
 5. Modern Web and Implementation <br/>
+
    https://whatwebcando.today/
 
