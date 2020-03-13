@@ -1,6 +1,6 @@
 # web-dev
 
-                                                         <b>WEB DEVELOPMENT</b>
+                                                    WEB DEVELOPMENT
 
 1. Web Documentation <br/>
    https://developer.mozilla.org/en-US/ <br/>
