@@ -16,7 +16,7 @@
 2. JavaScript (Also known as Vanilla JS) <br/>
    https://www.w3schools.com/js/default.asp
 
-   JS HTML Documnet Object Model (DOM)
+   JS HTML Document Object Model (DOM)
    https://www.w3schools.com/js/js_htmldom.asp
 
    JS Browser DOM
@@ -40,7 +40,7 @@
 
    Bootstrap Studio -https://getintopc.com/softwares/website-design/bootstrap-studio-pro-free-download/
 
-   How to install bootstrap studio <br/>
+   How to install bootstrap studio 
    https://unique-tutorials.info/how-to-install-bootstrap-studio-pro-without-errors-4/
 
    --------------------------------------------------
