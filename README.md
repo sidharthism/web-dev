@@ -1,10 +1,10 @@
 # web-dev
 
-                               WEB DEVELOPMENT
+                                                         <b>WEB DEVELOPMENT</b>
 
 1. Web Documentation
-   https://developer.mozilla.org/en-US/
-   https://developer.mozilla.org/en-US/docs/Learn (Learn web development from MDN docs)
+   https://developer.mozilla.org/en-US/ <br/>
+   https://developer.mozilla.org/en-US/docs/Learn (Learn web development from MDN docs) <br/>
    https://developer.mozilla.org/en-US/docs/Web
    
    Basic HTML and CSS - 
