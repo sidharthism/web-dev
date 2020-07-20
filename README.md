@@ -68,4 +68,8 @@
    <br>
    What is the 3-Tier Architecture?
    http://www.tonymarston.net/php-mysql/3-tier-architecture.html
+   <br>
+   # Node.js and npm
 
+   Package documentation
+   https://docs.npmjs.com/getting-started/using-a-package.json
