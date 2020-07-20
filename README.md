@@ -72,4 +72,4 @@
    # Node.js and npm
 
    Package documentation
-   https://docs.npmjs.com/getting-started/using-a-package.json
+   https://docs.npmjs.com/creating-a-package-json-file
