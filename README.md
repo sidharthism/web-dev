@@ -73,3 +73,6 @@
 
    Package documentation
    https://docs.npmjs.com/creating-a-package-json-file
+
+   Node lite-server
+   https://github.com/johnpapa/lite-server
