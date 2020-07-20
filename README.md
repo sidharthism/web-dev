@@ -50,4 +50,30 @@
 5. Modern Web and Implementation <br/>
 
    https://whatwebcando.today/
+   
+   
+   <center> Coursera Full Stack Web dev - node.js </center>
+   
+   What is a full stack developer?
+   https://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/
+   
+   <br>
+   
+   Wait, Wait… What is a Full-stack Web Developer After All?
+   https://edward-designer.com/web/full-stack-web-developer/
+      
+   <br>
+   
+   The Myth of the Full-stack Developer
+   https://www.andyshora.com/full-stack-developers.html
+      
+   <br>
+   
+   Multitier Architecture
+   https://en.wikipedia.org/wiki/Multitier_architecture
+      
+   <br>
+   
+   What is the 3-Tier Architecture?
+   http://www.tonymarston.net/php-mysql/3-tier-architecture.html
 
