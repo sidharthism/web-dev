@@ -79,3 +79,20 @@
 
    Node API Documentation
    https://nodejs.org/api/
+
+   Top Front end frameworks
+   https://www.keycdn.com/blog/frontend-frameworks
+
+   Comparing top 5 frontend web frameworks
+   https://www.sitepoint.com/most-popular-frontend-frameworks-compared/
+
+   Bootstrap 4 Grid
+   https://getbootstrap.com/docs/4.1/layout/grid/
+
+                                                        Viewport 
+
+   `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+
+   The viewportmeta tag:–
+   * Ensures that the screen width is set to the device width and the content is rendered with this width in mind.
+   * Designing the websites to be responsive to the size of the viewport
