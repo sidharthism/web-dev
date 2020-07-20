@@ -52,7 +52,8 @@
    https://whatwebcando.today/
    
    
-   # Full Stack Web dev - node.js 
+   <!-- # Coursera Full Stack Web dev - node.js  -->
+   # Full Stack Web dev
                                                         
    What is a full stack developer?
    https://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/
