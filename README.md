@@ -97,3 +97,8 @@
    The viewportmeta tag:–
    * Ensures that the screen width is set to the device width and the content is rendered with this width in mind.
    * Designing the websites to be responsive to the size of the viewport
+
+   Latest Bootstrap version uses <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS-flexbox layout</a>.
+   
+   Difference between container and container-fluid classes
+   https://medium.com/@vikrantrana1993/difference-between-container-and-container-fluid-in-bootstrap-3330832abf87
