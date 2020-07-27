@@ -102,3 +102,69 @@
    
    Difference between container and container-fluid classes
    https://medium.com/@vikrantrana1993/difference-between-container-and-container-fluid-in-bootstrap-3330832abf87
+
+   CSS3 Flexbox - W3
+   https://www.w3.org/TR/css-flexbox/
+
+   Visual guide to flexbox properties
+   https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
+
+   Bootstrap 4 - regular v/s flex-grid
+   https://tutorialzine.com/2016/11/boostrap-4-regular-vs-flex-grid
+
+   Navigation & Breadcrumbs
+
+   https://neilpatel.com/blog/common-website-navigation-mistakes/
+
+   https://www.hongkiat.com/blog/navigation-design-ideas-inspiration/
+
+   https://www.hongkiat.com/blog/breadcrumb-navigation-examined-best-practices-examples/
+
+   https://www.woorank.com/en/blog/breadcrumb-navigation-a-guide-to-types-benefits-and-best-practices
+
+   <br>
+   Information Architecture
+   
+   https://www.webfx.com/blog/web-design/information-architecture-101-techniques-and-best-practices/
+
+   https://www.steptwo.com.au/papers/kmc_whatisinfoarch/
+
+   https://www.webmonkey.com/
+
+   UI - Info Arch
+
+   http://www.jjg.net/ia/visvocab/
+
+   http://www.jjg.net/elements/
+
+   http://www.amazon.com/The-Elements-User-Experience-User-Centered/dp/0321683684/ref=pd_cp_14_1?ie=UTF8&refRID=0RXJWKFHY0TNF5QM2764
+
+   Buttons
+
+   https://css-tricks.com/use-button-element/
+
+   https://davidwalsh.name/html5-buttons
+
+   UI Design and Prototyping
+
+   https://wireframe.cc/
+
+   https://moqups.com/
+
+   http://www.axure.com/
+
+   https://proto.io/
+
+   http://framerjs.com/
+
+   http://www.creativebloq.com/wireframes/top-wireframing-tools-11121302
+
+   http://www.webdesign-inspiration.com/
+
+   https://onextrapixel.com/free-bootstrap-wireframing-set-for-powerpoint/
+
+   UI Templates
+
+   http://expo.getbootstrap.com/
+
+   Ionic Framework - https://ionicframework.com/
