@@ -168,3 +168,17 @@
    http://expo.getbootstrap.com/
 
    Ionic Framework - https://ionicframework.com/
+
+   Less and Sass Resources
+
+   Less Getting Started - http://lesscss.org/
+
+   https://scotch.io/tutorials/getting-started-with-less
+
+   Less NPM Package - https://www.npmjs.com/package/less
+
+   Sass Basics - http://sass-lang.com/guide
+
+   https://scotch.io/tutorials/getting-started-with-sass
+
+   Node-SASS NPM Package - https://www.npmjs.com/package/node-sass 
