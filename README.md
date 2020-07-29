@@ -190,7 +190,7 @@
    The Command Line for Web Design - https://webdesign.tutsplus.com/series/the-command-line-for-web-design--cms-777
 
    NPM Modules
-   
+
    - onchange
    - parallelshell
    - rimraf
@@ -200,3 +200,60 @@
    - cssmin
    - uglifyjs
    - htmlmin
+
+   Grunt Resources
+
+   - Grunt - http://gruntjs.com/
+   - Writing an Awesome Build Script with Grunt - http://www.sitepoint.com/writing-awesome-build-script-grunt/
+   - Clean Grunt - http://anders.janmyr.com/2014/01/clean-grunt.html
+   - File Globbing - http://gruntjs.com/configuring-tasks#globbing-patterns
+   - The Command Line for Web Design: Automation With Grunt - https://webdesign.tutsplus.com/tutorials/the-command-line-for-web-design-automation-with-grunt--cms-23454
+
+   Grunt Plugins 
+
+   - grunt-contrib-jshint
+   - jshint-stylish
+   - grunt-contrib-copy 
+   - grunt-contrib-clean
+   - grunt-usemin
+   - grunt-contrib-concat
+   - grunt-contrib-cssmin
+   - grunt-contrib-htmlmin
+   - grunt-contrib-uglify
+   - grunt-filerev
+
+   Gulp Resources
+
+   - Gulp - http://gulpjs.com/
+   - An Introduction to Gulp.js - http://www.sitepoint.com/introduction-gulp-js/
+   - Getting started with gulp - https://markgoodyear.com/2014/01/getting-started-with-gulp/
+   - Building with Gulp - http://www.smashingmagazine.com/2014/06/building-with-gulp/
+   - The Command Line for Web Design: Automation with Gulp - https://webdesign.tutsplus.com/tutorials/the-command-line-for-web-design-automation-with-gulp--cms-23642
+
+   Gulp Plugins
+
+   - gulp
+   - gulp-sass
+   - browser-sync
+   - del
+   - gulp-imagemin
+   - gulp-uglify
+   - gulp-usemin
+   - gulp-rev
+   - gulp-clean-css
+   - gulp-flatmap
+   - gulp-htmlmin
+
+   Tasks
+
+   - Minification - https://en.wikipedia.org/wiki/Minification_(programming)
+   - UglifyJS - http://lisperator.net/uglifyjs/
+   - JSHint - http://jshint.com/
+ 
+   General Resources
+   
+   - Node, Grunt, Bower and Yeoman - A Modern web dev's Toolkit - http://juristr.com/blog/2014/08/node-grunt-yeoman-bower/
+   - The Advantages of Using Task Runners - https://www.dbswebsite.com/blog/2015/02/24/the-advantages-of-using-task-runners/
+   - Gulp vs Grunt. Why one? Why the Other? - https://medium.com/@preslavrachev/gulp-vs-grunt-why-one-why-the-other-f5d3b398edc4
+   - Why we should stop using Grunt & Gulp - http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/
+   - Why I Left Gulp and Grunt for npm Scripts - https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8
