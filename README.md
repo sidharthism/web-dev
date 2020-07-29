@@ -181,4 +181,22 @@
 
    https://scotch.io/tutorials/getting-started-with-sass
 
-   Node-SASS NPM Package - https://www.npmjs.com/package/node-sass 
+   Node-SASS NPM Package - https://www.npmjs.com/package/node-sass
+
+   Why npm Scripts? - https://css-tricks.com/why-npm-scripts/ 
+
+   How to Use npm as a Build Tool - https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
+
+   The Command Line for Web Design - https://webdesign.tutsplus.com/series/the-command-line-for-web-design--cms-777
+
+   NPM Modules
+   
+   - onchange
+   - parallelshell
+   - rimraf
+   - copyfiles
+   - imagemin-cli
+   - usemin-cli
+   - cssmin
+   - uglifyjs
+   - htmlmin
